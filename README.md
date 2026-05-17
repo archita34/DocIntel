@@ -6,7 +6,7 @@
 
 ## 🔴 Live Demo
 
-**[https://your-docintel-link.netlify.app](https://your-docintel-link.netlify.app)**
+**[https://docintel-link.netlify.app](https://magnificent-cascaron-012187.netlify.app/)**
 
 ---
 
